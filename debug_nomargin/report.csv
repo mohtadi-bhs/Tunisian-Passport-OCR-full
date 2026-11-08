@@ -1,0 +1,15 @@
+﻿n,field,conf,bbox,crop_size,ocr_text,error,crop_file
+1,placeOfBirth,0.935,813 1471 980 1524,165x48,JERBA,,01_placeOfBirth.png
+2,identityNumber,0.934,1231 1412 1456 1459,225x45,1351258,,02_identityNumber.png
+3,dateOfExpiry,0.932,580 1617 907 1672,327x54,14-05-2030,,03_dateOfExpiry.png
+4,dateOfIssue,0.923,577 1538 907 1595,329x53,15-05-2025,,04_dateOfIssue.png
+5,nationality,0.921,589 1332 853 1380,264x48,TUNYSYAN,,05_nationality.png
+6,addressArabic,0.916,1697 1411 1795 1462,99x50,مدثين,,06_addressArabic.png
+7,dateOfBirth,0.909,588 1398 905 1450,316x50,16-11-2002,,07_dateOfBirth.png
+8,jobArabic,0.903,1696 1348 1792 1394,96x45,,,08_jobArabic.png
+9,givenNames,0.901,590 1274 801 1318,211x43,MOHTAD,,09_givenNames.png
+10,issuingPlace,0.88,1228 1540 1414 1583,185x41,,,10_issuingPlace.png
+11,nameArabic,0.857,1246 1172 1770 1238,524x55,مهتدي بن رعزويلين الحاج سالم,,11_nameArabic.png
+12,surname,0.828,593 1211 1006 1272,412x41,EN HA ALEM,,12_surname.png
+13,passportNumber,0.826,1210 1127 1412 1169,201x37,WS04S2,,13_passportNumber.png
+14,sex,0.797,582 1467 626 1522,53x41,,,14_sex.png

@@ -1,0 +1,19 @@
+path: C:/Users/User/Documents/Projet par défaut/dataset_new
+train: images/train
+val: images/val
+names:
+  0: address_ar
+  1: date_of_birth
+  2: date_of_expiry
+  3: date_of_issue
+  4: full_name_ar
+  5: given_names
+  6: identity_number
+  7: issuing_place
+  8: job_ar
+  9: nationality
+  10: passport_number
+  11: place_of_birth
+  12: place_of_birth_ar
+  13: sex
+  14: surname

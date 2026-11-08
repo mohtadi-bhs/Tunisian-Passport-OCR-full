@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "address_ar"
+    },
+    {
+      "id": 1,
+      "name": "date_of_birth"
+    },
+    {
+      "id": 2,
+      "name": "date_of_expiry"
+    },
+    {
+      "id": 3,
+      "name": "date_of_issue"
+    },
+    {
+      "id": 4,
+      "name": "full_name_ar"
+    },
+    {
+      "id": 5,
+      "name": "given_names"
+    },
+    {
+      "id": 6,
+      "name": "identity_number"
+    },
+    {
+      "id": 7,
+      "name": "issuing_place"
+    },
+    {
+      "id": 8,
+      "name": "job_ar"
+    },
+    {
+      "id": 9,
+      "name": "nationality"
+    },
+    {
+      "id": 10,
+      "name": "passport_number"
+    },
+    {
+      "id": 11,
+      "name": "place_of_birth"
+    },
+    {
+      "id": 12,
+      "name": "place_of_birth_ar"
+    },
+    {
+      "id": 13,
+      "name": "sex"
+    },
+    {
+      "id": 14,
+      "name": "surname"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

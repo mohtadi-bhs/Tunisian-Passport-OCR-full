@@ -1,0 +1,15 @@
+address_ar
+date_of_birth
+date_of_expiry
+date_of_issue
+full_name_ar
+given_names
+identity_number
+issuing_place
+job_ar
+nationality
+passport_number
+place_of_birth
+place_of_birth_ar
+sex
+surname

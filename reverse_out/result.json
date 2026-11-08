@@ -1,0 +1,153 @@
+{
+  "status": "partial",
+  "data": {
+    "placeOfBirth": "ل ع 8848 JERBA/&",
+    "nationality": "1101/1531",
+    "givenNames": "MOHTADI 1014181",
+    "issuingPlace": "JERB 0",
+    "nameArabic": "سي el مسيم الحاج ecw سالم",
+    "surname": "BEN لرع8 HAJ دمله SALEM لم5"
+  },
+  "errors": [
+    "dateOfBirth: unreadable ('6-11- 16-11-02 2002 16-')",
+    "dateOfIssue: unreadable ('15-05-35 -05-2025 A5-')",
+    "dateOfExpiry: unreadable ('14-05-2030 114-05-0')",
+    "passportNumber: unreadable ('\"WHeoay2- 7')",
+    "identityNumber: unreadable ('13512 15512')",
+    "sex: unreadable ('ا')",
+    "missing: passportNumber, dateOfBirth"
+  ],
+  "fields": [
+    {
+      "field": "placeOfBirth",
+      "conf": 0.935,
+      "text": "ل ع 8848 JERBA/&",
+      "words": [
+        "JERBA/&",
+        "8848",
+        "ع",
+        "ل"
+      ]
+    },
+    {
+      "field": "identityNumber",
+      "conf": 0.934,
+      "text": "13512 15512",
+      "words": [
+        "13512",
+        "15512"
+      ]
+    },
+    {
+      "field": "dateOfExpiry",
+      "conf": 0.932,
+      "text": "14-05-2030 114-05-0",
+      "words": [
+        "14-05-2030",
+        "114-05-0"
+      ]
+    },
+    {
+      "field": "dateOfIssue",
+      "conf": 0.923,
+      "text": "15-05-35 -05-2025 A5-",
+      "words": [
+        "A5-",
+        "-05-2025",
+        "15-05-35"
+      ]
+    },
+    {
+      "field": "nationality",
+      "conf": 0.921,
+      "text": "1101/1531",
+      "words": [
+        "1101/1531"
+      ]
+    },
+    {
+      "field": "addressArabic",
+      "conf": 0.916,
+      "text": "",
+      "words": []
+    },
+    {
+      "field": "dateOfBirth",
+      "conf": 0.909,
+      "text": "6-11- 16-11-02 2002 16-",
+      "words": [
+        "16-",
+        "6-11-",
+        "2002",
+        "16-11-02"
+      ]
+    },
+    {
+      "field": "jobArabic",
+      "conf": 0.903,
+      "text": "",
+      "words": []
+    },
+    {
+      "field": "givenNames",
+      "conf": 0.901,
+      "text": "MOHTADI 1014181",
+      "words": [
+        "MOHTADI",
+        "1014181"
+      ]
+    },
+    {
+      "field": "issuingPlace",
+      "conf": 0.88,
+      "text": "JERB 0",
+      "words": [
+        "JERB",
+        "0"
+      ]
+    },
+    {
+      "field": "nameArabic",
+      "conf": 0.857,
+      "text": "سي el مسيم الحاج ecw سالم",
+      "words": [
+        "el",
+        "ecw",
+        "سي",
+        "مسيم",
+        "الحاج",
+        "سالم"
+      ]
+    },
+    {
+      "field": "surname",
+      "conf": 0.828,
+      "text": "BEN لرع8 HAJ دمله SALEM لم5",
+      "words": [
+        "BEN",
+        "HAJ",
+        "SALEM",
+        "لم5",
+        "دمله",
+        "لرع8"
+      ]
+    },
+    {
+      "field": "passportNumber",
+      "conf": 0.826,
+      "text": "\"WHeoay2- 7",
+      "words": [
+        "\"WHeoay2-",
+        "7"
+      ]
+    },
+    {
+      "field": "sex",
+      "conf": 0.797,
+      "text": "ا",
+      "words": [
+        "ا"
+      ]
+    }
+  ]
+}

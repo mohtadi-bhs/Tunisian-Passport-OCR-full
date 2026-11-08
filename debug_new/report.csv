@@ -1,0 +1,15 @@
+﻿n,field,conf,bbox,crop_size,ocr_text,error,crop_file
+1,dateOfExpiry,0.94,523 741 845 794,322x53,14-05-2030,,01_dateOfExpiry.png
+2,identityNumber,0.934,1175 511 1411 563,236x50,351257,,02_identityNumber.png
+3,givenNames,0.931,527 378 748 432,220x52,,,03_givenNames.png
+4,nationality,0.931,524 449 791 503,266x52,TUNISIAN,,04_nationality.png
+5,placeOfBirth,0.924,748 591 912 642,163x50,JERBA,,05_placeOfBirth.png
+6,passportNumber,0.922,1160 135 1411 194,250x54,NB6043Z,,06_passportNumber.png
+7,addressArabic,0.921,1687 497 1804 550,115x50,6٠. 1 :4 3,,07_addressArabic.png
+8,jobArabic,0.92,1696 423 1801 471,105x47,طالب,,08_jobArabic.png
+9,dateOfBirth,0.91,524 518 839 575,315x53,16-11-2002,,09_dateOfBirth.png
+10,dateOfIssue,0.909,520 663 846 719,326x53,45-05-2025,,10_dateOfIssue.png
+11,issuingPlace,0.908,1173 651 1354 697,179x41,VERBAY,,11_issuingPlace.png
+12,nameArabic,0.876,1212 203 1816 277,603x65,مهندي بن رضا بن الحاج سالم,,12_nameArabic.png
+13,surname,0.857,522 303 942 358,420x54,BEN HAJ SALEM,,13_surname.png
+14,sex,0.782,525 594 565 646,50x38,,,14_sex.png

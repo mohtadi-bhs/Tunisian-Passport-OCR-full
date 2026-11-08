@@ -1,0 +1,2222 @@
+[
+  {
+    "text": "ge",
+    "box": [
+      629,
+      32,
+      706,
+      57
+    ],
+    "lang": "eng",
+    "conf": 24.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ed",
+    "box": [
+      742,
+      31,
+      778,
+      97
+    ],
+    "lang": "eng",
+    "conf": 56.0,
+    "assigned_to": null
+  },
+  {
+    "text": "me",
+    "box": [
+      792,
+      27,
+      902,
+      105
+    ],
+    "lang": "eng",
+    "conf": 18.0,
+    "assigned_to": null
+  },
+  {
+    "text": "J",
+    "box": [
+      928,
+      32,
+      963,
+      74
+    ],
+    "lang": "eng",
+    "conf": 79.0,
+    "assigned_to": null
+  },
+  {
+    "text": "aw",
+    "box": [
+      996,
+      36,
+      1098,
+      75
+    ],
+    "lang": "eng",
+    "conf": 67.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ae)",
+    "box": [
+      1118,
+      36,
+      1220,
+      68
+    ],
+    "lang": "eng",
+    "conf": 25.0,
+    "assigned_to": null
+  },
+  {
+    "text": "gle",
+    "box": [
+      1251,
+      40,
+      1338,
+      82
+    ],
+    "lang": "eng",
+    "conf": 50.0,
+    "assigned_to": null
+  },
+  {
+    "text": ":*",
+    "box": [
+      1382,
+      52,
+      1423,
+      72
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "7",
+    "box": [
+      784,
+      120,
+      788,
+      128
+    ],
+    "lang": "eng",
+    "conf": 15.0,
+    "assigned_to": null
+  },
+  {
+    "text": "er",
+    "box": [
+      803,
+      118,
+      842,
+      124
+    ],
+    "lang": "eng",
+    "conf": 65.0,
+    "assigned_to": null
+  },
+  {
+    "text": "-~",
+    "box": [
+      976,
+      88,
+      1011,
+      122
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "art",
+    "box": [
+      1028,
+      64,
+      1144,
+      112
+    ],
+    "lang": "eng",
+    "conf": 64.0,
+    "assigned_to": null
+  },
+  {
+    "text": "Spee",
+    "box": [
+      1182,
+      80,
+      1305,
+      146
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "seve",
+    "box": [
+      1324,
+      80,
+      1404,
+      146
+    ],
+    "lang": "eng",
+    "conf": 45.0,
+    "assigned_to": null
+  },
+  {
+    "text": "~~",
+    "box": [
+      1064,
+      115,
+      1098,
+      142
+    ],
+    "lang": "eng",
+    "conf": 33.0,
+    "assigned_to": null
+  },
+  {
+    "text": "oe",
+    "box": [
+      1113,
+      115,
+      1141,
+      142
+    ],
+    "lang": "eng",
+    "conf": 44.0,
+    "assigned_to": null
+  },
+  {
+    "text": "&",
+    "box": [
+      48,
+      288,
+      120,
+      352
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "a",
+    "box": [
+      16,
+      444,
+      26,
+      448
+    ],
+    "lang": "eng",
+    "conf": 12.0,
+    "assigned_to": null
+  },
+  {
+    "text": "he",
+    "box": [
+      40,
+      444,
+      59,
+      453
+    ],
+    "lang": "eng",
+    "conf": 54.0,
+    "assigned_to": null
+  },
+  {
+    "text": "oe",
+    "box": [
+      64,
+      672,
+      106,
+      684
+    ],
+    "lang": "eng",
+    "conf": 41.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ns",
+    "box": [
+      96,
+      668,
+      110,
+      692
+    ],
+    "lang": "eng",
+    "conf": 13.0,
+    "assigned_to": null
+  },
+  {
+    "text": "PUGUC",
+    "box": [
+      280,
+      1029,
+      756,
+      1067
+    ],
+    "lang": "eng",
+    "conf": 68.0,
+    "assigned_to": null
+  },
+  {
+    "text": "OF",
+    "box": [
+      491,
+      1018,
+      547,
+      1073
+    ],
+    "lang": "eng",
+    "conf": 90.0,
+    "assigned_to": null
+  },
+  {
+    "text": "TUNma",
+    "box": [
+      573,
+      1029,
+      756,
+      1067
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "=",
+    "box": [
+      933,
+      1064,
+      952,
+      1073
+    ],
+    "lang": "eng",
+    "conf": 32.0,
+    "assigned_to": null
+  },
+  {
+    "text": "te",
+    "box": [
+      1103,
+      1058,
+      1324,
+      1103
+    ],
+    "lang": "eng",
+    "conf": 25.0,
+    "assigned_to": null
+  },
+  {
+    "text": "—",
+    "box": [
+      1502,
+      1091,
+      1576,
+      1100
+    ],
+    "lang": "eng",
+    "conf": 7.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ASSPORT",
+    "box": [
+      206,
+      1152,
+      440,
+      1185
+    ],
+    "lang": "eng",
+    "conf": 90.0,
+    "assigned_to": null
+  },
+  {
+    "text": "\"WHeoay2-",
+    "box": [
+      1168,
+      1119,
+      1432,
+      1164
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": 12
+  },
+  {
+    "text": "el",
+    "box": [
+      1576,
+      1175,
+      1770,
+      1193
+    ],
+    "lang": "eng",
+    "conf": 42.0,
+    "assigned_to": 10
+  },
+  {
+    "text": "pee",
+    "box": [
+      1662,
+      1163,
+      1708,
+      1197
+    ],
+    "lang": "eng",
+    "conf": 33.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ep",
+    "box": [
+      1739,
+      1163,
+      1774,
+      1197
+    ],
+    "lang": "eng",
+    "conf": 41.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ecw",
+    "box": [
+      1256,
+      1180,
+      1437,
+      1226
+    ],
+    "lang": "eng",
+    "conf": 2.0,
+    "assigned_to": 10
+  },
+  {
+    "text": "BEN",
+    "box": [
+      597,
+      1221,
+      688,
+      1251
+    ],
+    "lang": "eng",
+    "conf": 95.0,
+    "assigned_to": 11
+  },
+  {
+    "text": "HAJ",
+    "box": [
+      721,
+      1224,
+      807,
+      1255
+    ],
+    "lang": "eng",
+    "conf": 95.0,
+    "assigned_to": 11
+  },
+  {
+    "text": "SALEM",
+    "box": [
+      848,
+      1227,
+      996,
+      1260
+    ],
+    "lang": "eng",
+    "conf": 92.0,
+    "assigned_to": 11
+  },
+  {
+    "text": "MOHTADI",
+    "box": [
+      595,
+      1279,
+      805,
+      1312
+    ],
+    "lang": "eng",
+    "conf": 90.0,
+    "assigned_to": 8
+  },
+  {
+    "text": "TUNISIAN/4___,3,",
+    "box": [
+      585,
+      1341,
+      1150,
+      1406
+    ],
+    "lang": "eng",
+    "conf": 2.0,
+    "assigned_to": null
+  },
+  {
+    "text": "5",
+    "box": [
+      1134,
+      1327,
+      1156,
+      1410
+    ],
+    "lang": "eng",
+    "conf": 86.0,
+    "assigned_to": null
+  },
+  {
+    "text": "keeraty",
+    "box": [
+      1223,
+      1390,
+      1328,
+      1410
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "16-",
+    "box": [
+      583,
+      1405,
+      680,
+      1466
+    ],
+    "lang": "eng",
+    "conf": 32.0,
+    "assigned_to": 6
+  },
+  {
+    "text": "6-11-",
+    "box": [
+      628,
+      1376,
+      775,
+      1470
+    ],
+    "lang": "eng",
+    "conf": 11.0,
+    "assigned_to": 6
+  },
+  {
+    "text": "2002",
+    "box": [
+      779,
+      1381,
+      900,
+      1444
+    ],
+    "lang": "eng",
+    "conf": 95.0,
+    "assigned_to": 6
+  },
+  {
+    "text": "13512",
+    "box": [
+      1238,
+      1418,
+      1384,
+      1452
+    ],
+    "lang": "eng",
+    "conf": 95.0,
+    "assigned_to": 1
+  },
+  {
+    "text": "Place",
+    "box": [
+      810,
+      1446,
+      1021,
+      1474
+    ],
+    "lang": "eng",
+    "conf": 48.0,
+    "assigned_to": null
+  },
+  {
+    "text": "of",
+    "box": [
+      878,
+      1442,
+      899,
+      1478
+    ],
+    "lang": "eng",
+    "conf": 96.0,
+    "assigned_to": null
+  },
+  {
+    "text": "beth",
+    "box": [
+      911,
+      1442,
+      950,
+      1478
+    ],
+    "lang": "eng",
+    "conf": 50.0,
+    "assigned_to": null
+  },
+  {
+    "text": "Ay",
+    "box": [
+      965,
+      1442,
+      1001,
+      1478
+    ],
+    "lang": "eng",
+    "conf": 27.0,
+    "assigned_to": null
+  },
+  {
+    "text": "2",
+    "box": [
+      1010,
+      1442,
+      1022,
+      1478
+    ],
+    "lang": "eng",
+    "conf": 42.0,
+    "assigned_to": null
+  },
+  {
+    "text": "fs.",
+    "box": [
+      1040,
+      1453,
+      1088,
+      1473
+    ],
+    "lang": "eng",
+    "conf": 18.0,
+    "assigned_to": null
+  },
+  {
+    "text": "Cate",
+    "box": [
+      577,
+      1513,
+      628,
+      1549
+    ],
+    "lang": "eng",
+    "conf": 56.0,
+    "assigned_to": null
+  },
+  {
+    "text": "of",
+    "box": [
+      640,
+      1513,
+      661,
+      1549
+    ],
+    "lang": "eng",
+    "conf": 96.0,
+    "assigned_to": null
+  },
+  {
+    "text": "mauve",
+    "box": [
+      673,
+      1513,
+      721,
+      1549
+    ],
+    "lang": "eng",
+    "conf": 7.0,
+    "assigned_to": null
+  },
+  {
+    "text": "/",
+    "box": [
+      734,
+      1520,
+      741,
+      1541
+    ],
+    "lang": "eng",
+    "conf": 82.0,
+    "assigned_to": null
+  },
+  {
+    "text": "J.)",
+    "box": [
+      754,
+      1513,
+      828,
+      1549
+    ],
+    "lang": "eng",
+    "conf": 30.0,
+    "assigned_to": null
+  },
+  {
+    "text": "a.",
+    "box": [
+      844,
+      1513,
+      874,
+      1549
+    ],
+    "lang": "eng",
+    "conf": 32.0,
+    "assigned_to": null
+  },
+  {
+    "text": "M/S",
+    "box": [
+      583,
+      1443,
+      718,
+      1517
+    ],
+    "lang": "eng",
+    "conf": 15.0,
+    "assigned_to": null
+  },
+  {
+    "text": "JERBA/&",
+    "box": [
+      819,
+      1479,
+      1080,
+      1539
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": 0
+  },
+  {
+    "text": "=",
+    "box": [
+      1057,
+      1460,
+      1085,
+      1543
+    ],
+    "lang": "eng",
+    "conf": 45.0,
+    "assigned_to": null
+  },
+  {
+    "text": "A5-",
+    "box": [
+      578,
+      1548,
+      676,
+      1614
+    ],
+    "lang": "eng",
+    "conf": 20.0,
+    "assigned_to": 3
+  },
+  {
+    "text": "-05-2025",
+    "box": [
+      651,
+      1529,
+      901,
+      1586
+    ],
+    "lang": "eng",
+    "conf": 72.0,
+    "assigned_to": 3
+  },
+  {
+    "text": "JERB",
+    "box": [
+      1224,
+      1523,
+      1358,
+      1592
+    ],
+    "lang": "eng",
+    "conf": 76.0,
+    "assigned_to": 9
+  },
+  {
+    "text": "Oate",
+    "box": [
+      574,
+      1589,
+      626,
+      1628
+    ],
+    "lang": "eng",
+    "conf": 32.0,
+    "assigned_to": null
+  },
+  {
+    "text": "of",
+    "box": [
+      635,
+      1589,
+      658,
+      1628
+    ],
+    "lang": "eng",
+    "conf": 95.0,
+    "assigned_to": null
+  },
+  {
+    "text": "expiry",
+    "box": [
+      667,
+      1593,
+      824,
+      1619
+    ],
+    "lang": "eng",
+    "conf": 85.0,
+    "assigned_to": null
+  },
+  {
+    "text": "/s\\",
+    "box": [
+      739,
+      1589,
+      773,
+      1628
+    ],
+    "lang": "eng",
+    "conf": 12.0,
+    "assigned_to": null
+  },
+  {
+    "text": "27!",
+    "box": [
+      788,
+      1589,
+      828,
+      1628
+    ],
+    "lang": "eng",
+    "conf": 27.0,
+    "assigned_to": null
+  },
+  {
+    "text": "a.",
+    "box": [
+      835,
+      1600,
+      897,
+      1624
+    ],
+    "lang": "eng",
+    "conf": 25.0,
+    "assigned_to": null
+  },
+  {
+    "text": "8",
+    "box": [
+      886,
+      1589,
+      899,
+      1628
+    ],
+    "lang": "eng",
+    "conf": 18.0,
+    "assigned_to": null
+  },
+  {
+    "text": "pesrarer",
+    "box": [
+      1627,
+      1558,
+      1804,
+      1608
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "14-05-2030",
+    "box": [
+      588,
+      1618,
+      897,
+      1663
+    ],
+    "lang": "eng",
+    "conf": 96.0,
+    "assigned_to": 2
+  },
+  {
+    "text": "el",
+    "box": [
+      224,
+      1689,
+      322,
+      1725
+    ],
+    "lang": "eng",
+    "conf": 30.0,
+    "assigned_to": null
+  },
+  {
+    "text": "¥s",
+    "box": [
+      1124,
+      1732,
+      1152,
+      1754
+    ],
+    "lang": "eng",
+    "conf": 65.0,
+    "assigned_to": null
+  },
+  {
+    "text": "pene",
+    "box": [
+      1226,
+      1709,
+      1356,
+      1750
+    ],
+    "lang": "eng",
+    "conf": 17.0,
+    "assigned_to": null
+  },
+  {
+    "text": "‘.¥",
+    "box": [
+      1450,
+      1739,
+      1489,
+      1752
+    ],
+    "lang": "eng",
+    "conf": 16.0,
+    "assigned_to": null
+  },
+  {
+    "text": "se",
+    "box": [
+      614,
+      1703,
+      799,
+      1854
+    ],
+    "lang": "eng",
+    "conf": 22.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ity",
+    "box": [
+      899,
+      1703,
+      1038,
+      1854
+    ],
+    "lang": "eng",
+    "conf": 16.0,
+    "assigned_to": null
+  },
+  {
+    "text": "pk:",
+    "box": [
+      1096,
+      1764,
+      1169,
+      1810
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "Bl",
+    "box": [
+      1184,
+      1764,
+      1203,
+      1810
+    ],
+    "lang": "eng",
+    "conf": 34.0,
+    "assigned_to": null
+  },
+  {
+    "text": "1;",
+    "box": [
+      1173,
+      1739,
+      1213,
+      1772
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "Yah",
+    "box": [
+      1262,
+      1770,
+      1338,
+      1800
+    ],
+    "lang": "eng",
+    "conf": 5.0,
+    "assigned_to": null
+  },
+  {
+    "text": "t",
+    "box": [
+      1313,
+      1765,
+      1323,
+      1804
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "K£<<<<KKK",
+    "box": [
+      1462,
+      1904,
+      1740,
+      1947
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "'",
+    "box": [
+      193,
+      1940,
+      197,
+      1952
+    ],
+    "lang": "eng",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "JN",
+    "box": [
+      240,
+      1933,
+      286,
+      1965
+    ],
+    "lang": "eng",
+    "conf": 87.0,
+    "assigned_to": null
+  },
+  {
+    "text": "i<HAS<SALEM<<MOHTADI<<<<¢",
+    "box": [
+      396,
+      1915,
+      1315,
+      1963
+    ],
+    "lang": "eng",
+    "conf": 3.0,
+    "assigned_to": null
+  },
+  {
+    "text": "<2002<28",
+    "box": [
+      1459,
+      2001,
+      1736,
+      2050
+    ],
+    "lang": "eng",
+    "conf": 92.0,
+    "assigned_to": null
+  },
+  {
+    "text": "’",
+    "box": [
+      0,
+      2032,
+      30,
+      2167
+    ],
+    "lang": "eng",
+    "conf": 27.0,
+    "assigned_to": null
+  },
+  {
+    "text": "N860432<<0",
+    "box": [
+      101,
+      2028,
+      485,
+      2073
+    ],
+    "lang": "eng",
+    "conf": 82.0,
+    "assigned_to": null
+  },
+  {
+    "text": "211163M30051431351",
+    "box": [
+      651,
+      2012,
+      1307,
+      2064
+    ],
+    "lang": "eng",
+    "conf": 79.0,
+    "assigned_to": null
+  },
+  {
+    "text": "56",
+    "box": [
+      1382,
+      52,
+      1423,
+      72
+    ],
+    "lang": "ara",
+    "conf": 33.0,
+    "assigned_to": null
+  },
+  {
+    "text": "شف",
+    "box": [
+      1296,
+      32,
+      1323,
+      79
+    ],
+    "lang": "ara",
+    "conf": 50.0,
+    "assigned_to": null
+  },
+  {
+    "text": "+",
+    "box": [
+      1264,
+      45,
+      1269,
+      59
+    ],
+    "lang": "ara",
+    "conf": 54.0,
+    "assigned_to": null
+  },
+  {
+    "text": "عالكي",
+    "box": [
+      1118,
+      36,
+      1220,
+      68
+    ],
+    "lang": "ara",
+    "conf": 1.0,
+    "assigned_to": null
+  },
+  {
+    "text": "لا",
+    "box": [
+      1055,
+      32,
+      1098,
+      79
+    ],
+    "lang": "ara",
+    "conf": 44.0,
+    "assigned_to": null
+  },
+  {
+    "text": "هم",
+    "box": [
+      991,
+      32,
+      1030,
+      79
+    ],
+    "lang": "ara",
+    "conf": 86.0,
+    "assigned_to": null
+  },
+  {
+    "text": ":",
+    "box": [
+      928,
+      46,
+      952,
+      74
+    ],
+    "lang": "ara",
+    "conf": 41.0,
+    "assigned_to": null
+  },
+  {
+    "text": "#فاشرنق",
+    "box": [
+      792,
+      27,
+      899,
+      61
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "\"ونه",
+    "box": [
+      665,
+      31,
+      768,
+      60
+    ],
+    "lang": "ara",
+    "conf": 11.0,
+    "assigned_to": null
+  },
+  {
+    "text": "؟",
+    "box": [
+      644,
+      32,
+      651,
+      50
+    ],
+    "lang": "ara",
+    "conf": 50.0,
+    "assigned_to": null
+  },
+  {
+    "text": "معهوم",
+    "box": [
+      1332,
+      80,
+      1405,
+      126
+    ],
+    "lang": "ara",
+    "conf": 35.0,
+    "assigned_to": null
+  },
+  {
+    "text": "سوبد",
+    "box": [
+      1240,
+      80,
+      1307,
+      126
+    ],
+    "lang": "ara",
+    "conf": 6.0,
+    "assigned_to": null
+  },
+  {
+    "text": "م",
+    "box": [
+      1187,
+      93,
+      1206,
+      110
+    ],
+    "lang": "ara",
+    "conf": 39.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ووه",
+    "box": [
+      1028,
+      64,
+      1144,
+      112
+    ],
+    "lang": "ara",
+    "conf": 48.0,
+    "assigned_to": null
+  },
+  {
+    "text": "5",
+    "box": [
+      988,
+      90,
+      1000,
+      105
+    ],
+    "lang": "ara",
+    "conf": 55.0,
+    "assigned_to": null
+  },
+  {
+    "text": "و",
+    "box": [
+      1126,
+      115,
+      1145,
+      142
+    ],
+    "lang": "ara",
+    "conf": 59.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ووه",
+    "box": [
+      1068,
+      120,
+      1141,
+      138
+    ],
+    "lang": "ara",
+    "conf": 50.0,
+    "assigned_to": null
+  },
+  {
+    "text": "7",
+    "box": [
+      784,
+      120,
+      788,
+      128
+    ],
+    "lang": "ara",
+    "conf": 24.0,
+    "assigned_to": null
+  },
+  {
+    "text": "8",
+    "box": [
+      48,
+      288,
+      120,
+      352
+    ],
+    "lang": "ara",
+    "conf": 13.0,
+    "assigned_to": null
+  },
+  {
+    "text": "7-",
+    "box": [
+      16,
+      444,
+      59,
+      453
+    ],
+    "lang": "ara",
+    "conf": 7.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ورا",
+    "box": [
+      64,
+      672,
+      106,
+      684
+    ],
+    "lang": "ara",
+    "conf": 7.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ممسديدن",
+    "box": [
+      561,
+      1029,
+      756,
+      1067
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "كنت",
+    "box": [
+      492,
+      1018,
+      545,
+      1073
+    ],
+    "lang": "ara",
+    "conf": 28.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ون",
+    "box": [
+      410,
+      1032,
+      462,
+      1056
+    ],
+    "lang": "ara",
+    "conf": 64.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ناير",
+    "box": [
+      280,
+      1018,
+      386,
+      1073
+    ],
+    "lang": "ara",
+    "conf": 40.0,
+    "assigned_to": null
+  },
+  {
+    "text": "سوس",
+    "box": [
+      1502,
+      1071,
+      1576,
+      1106
+    ],
+    "lang": "ara",
+    "conf": 26.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ره",
+    "box": [
+      1397,
+      1080,
+      1471,
+      1099
+    ],
+    "lang": "ara",
+    "conf": 71.0,
+    "assigned_to": null
+  },
+  {
+    "text": "صرحوةفسييب»ه",
+    "box": [
+      1099,
+      1058,
+      1372,
+      1103
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "-",
+    "box": [
+      933,
+      1064,
+      952,
+      1073
+    ],
+    "lang": "ara",
+    "conf": 62.0,
+    "assigned_to": null
+  },
+  {
+    "text": "سي",
+    "box": [
+      1668,
+      1165,
+      1698,
+      1198
+    ],
+    "lang": "ara",
+    "conf": 40.0,
+    "assigned_to": 10
+  },
+  {
+    "text": "مسيم",
+    "box": [
+      1576,
+      1175,
+      1770,
+      1193
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": 10
+  },
+  {
+    "text": "7",
+    "box": [
+      1168,
+      1119,
+      1432,
+      1164
+    ],
+    "lang": "ara",
+    "conf": 45.0,
+    "assigned_to": 12
+  },
+  {
+    "text": "556057",
+    "box": [
+      206,
+      1152,
+      440,
+      1185
+    ],
+    "lang": "ara",
+    "conf": 65.0,
+    "assigned_to": null
+  },
+  {
+    "text": "الحاج",
+    "box": [
+      1345,
+      1176,
+      1437,
+      1236
+    ],
+    "lang": "ara",
+    "conf": 88.0,
+    "assigned_to": 10
+  },
+  {
+    "text": "سالم",
+    "box": [
+      1252,
+      1176,
+      1327,
+      1236
+    ],
+    "lang": "ara",
+    "conf": 83.0,
+    "assigned_to": 10
+  },
+  {
+    "text": "لم5",
+    "box": [
+      848,
+      1227,
+      996,
+      1260
+    ],
+    "lang": "ara",
+    "conf": 4.0,
+    "assigned_to": 11
+  },
+  {
+    "text": "دمله",
+    "box": [
+      721,
+      1224,
+      807,
+      1255
+    ],
+    "lang": "ara",
+    "conf": 8.0,
+    "assigned_to": 11
+  },
+  {
+    "text": "لرع8",
+    "box": [
+      597,
+      1221,
+      688,
+      1251
+    ],
+    "lang": "ara",
+    "conf": 65.0,
+    "assigned_to": 11
+  },
+  {
+    "text": "1014181",
+    "box": [
+      595,
+      1279,
+      805,
+      1312
+    ],
+    "lang": "ara",
+    "conf": 68.0,
+    "assigned_to": 8
+  },
+  {
+    "text": ">",
+    "box": [
+      1309,
+      1386,
+      1332,
+      1415
+    ],
+    "lang": "ara",
+    "conf": 48.0,
+    "assigned_to": null
+  },
+  {
+    "text": "برجسسمن",
+    "box": [
+      1223,
+      1390,
+      1328,
+      1410
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "تونسي",
+    "box": [
+      981,
+      1357,
+      1150,
+      1388
+    ],
+    "lang": "ara",
+    "conf": 50.0,
+    "assigned_to": null
+  },
+  {
+    "text": "قة/0م",
+    "box": [
+      794,
+      1327,
+      938,
+      1392
+    ],
+    "lang": "ara",
+    "conf": 17.0,
+    "assigned_to": null
+  },
+  {
+    "text": "1101/1531",
+    "box": [
+      595,
+      1327,
+      773,
+      1392
+    ],
+    "lang": "ara",
+    "conf": 58.0,
+    "assigned_to": 4
+  },
+  {
+    "text": "15512",
+    "box": [
+      1238,
+      1418,
+      1384,
+      1452
+    ],
+    "lang": "ara",
+    "conf": 90.0,
+    "assigned_to": 1
+  },
+  {
+    "text": "16-11-02",
+    "box": [
+      594,
+      1405,
+      900,
+      1444
+    ],
+    "lang": "ara",
+    "conf": 14.0,
+    "assigned_to": 6
+  },
+  {
+    "text": "سكا",
+    "box": [
+      1040,
+      1453,
+      1088,
+      1473
+    ],
+    "lang": "ara",
+    "conf": 29.0,
+    "assigned_to": null
+  },
+  {
+    "text": "قر",
+    "box": [
+      1006,
+      1437,
+      1024,
+      1481
+    ],
+    "lang": "ara",
+    "conf": 64.0,
+    "assigned_to": null
+  },
+  {
+    "text": "الم",
+    "box": [
+      965,
+      1437,
+      993,
+      1481
+    ],
+    "lang": "ara",
+    "conf": 1.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ين",
+    "box": [
+      916,
+      1437,
+      947,
+      1481
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "أن",
+    "box": [
+      880,
+      1437,
+      900,
+      1481
+    ],
+    "lang": "ara",
+    "conf": 60.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ممصا",
+    "box": [
+      810,
+      1446,
+      1021,
+      1474
+    ],
+    "lang": "ara",
+    "conf": 29.0,
+    "assigned_to": null
+  },
+  {
+    "text": "جرية/",
+    "box": [
+      980,
+      1460,
+      1083,
+      1528
+    ],
+    "lang": "ara",
+    "conf": 58.0,
+    "assigned_to": null
+  },
+  {
+    "text": "8848",
+    "box": [
+      891,
+      1460,
+      964,
+      1528
+    ],
+    "lang": "ara",
+    "conf": 64.0,
+    "assigned_to": 0
+  },
+  {
+    "text": "ع",
+    "box": [
+      857,
+      1479,
+      871,
+      1510
+    ],
+    "lang": "ara",
+    "conf": 82.0,
+    "assigned_to": 0
+  },
+  {
+    "text": "ل",
+    "box": [
+      819,
+      1479,
+      837,
+      1510
+    ],
+    "lang": "ara",
+    "conf": 96.0,
+    "assigned_to": 0
+  },
+  {
+    "text": "الأإمدر/",
+    "box": [
+      734,
+      1517,
+      824,
+      1542
+    ],
+    "lang": "ara",
+    "conf": 38.0,
+    "assigned_to": null
+  },
+  {
+    "text": "مهنا",
+    "box": [
+      671,
+      1513,
+      722,
+      1546
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "نه",
+    "box": [
+      640,
+      1513,
+      660,
+      1546
+    ],
+    "lang": "ara",
+    "conf": 51.0,
+    "assigned_to": null
+  },
+  {
+    "text": "وضمتا",
+    "box": [
+      577,
+      1513,
+      629,
+      1546
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ذكر/",
+    "box": [
+      624,
+      1474,
+      718,
+      1517
+    ],
+    "lang": "ara",
+    "conf": 19.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ا",
+    "box": [
+      588,
+      1475,
+      611,
+      1507
+    ],
+    "lang": "ara",
+    "conf": 19.0,
+    "assigned_to": 13
+  },
+  {
+    "text": "0",
+    "box": [
+      1224,
+      1523,
+      1358,
+      1592
+    ],
+    "lang": "ara",
+    "conf": 41.0,
+    "assigned_to": 9
+  },
+  {
+    "text": "15-05-35",
+    "box": [
+      590,
+      1548,
+      896,
+      1586
+    ],
+    "lang": "ara",
+    "conf": 1.0,
+    "assigned_to": 3
+  },
+  {
+    "text": "عمسف",
+    "box": [
+      1713,
+      1554,
+      1808,
+      1612
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "يهمة",
+    "box": [
+      1623,
+      1554,
+      1707,
+      1612
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ظرية",
+    "box": [
+      837,
+      1605,
+      897,
+      1618
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "الإنتباء/",
+    "box": [
+      741,
+      1589,
+      838,
+      1624
+    ],
+    "lang": "ara",
+    "conf": 40.0,
+    "assigned_to": null
+  },
+  {
+    "text": "راود",
+    "box": [
+      677,
+      1589,
+      729,
+      1624
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "إن",
+    "box": [
+      638,
+      1589,
+      661,
+      1624
+    ],
+    "lang": "ara",
+    "conf": 49.0,
+    "assigned_to": null
+  },
+  {
+    "text": "114-05-0",
+    "box": [
+      588,
+      1626,
+      897,
+      1663
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": 2
+  },
+  {
+    "text": "0",
+    "box": [
+      224,
+      1689,
+      322,
+      1725
+    ],
+    "lang": "ara",
+    "conf": 42.0,
+    "assigned_to": null
+  },
+  {
+    "text": "00",
+    "box": [
+      1450,
+      1739,
+      1489,
+      1752
+    ],
+    "lang": "ara",
+    "conf": 48.0,
+    "assigned_to": null
+  },
+  {
+    "text": "جز",
+    "box": [
+      1326,
+      1688,
+      1361,
+      1755
+    ],
+    "lang": "ara",
+    "conf": 29.0,
+    "assigned_to": null
+  },
+  {
+    "text": "ودج",
+    "box": [
+      1226,
+      1709,
+      1356,
+      1750
+    ],
+    "lang": "ara",
+    "conf": 30.0,
+    "assigned_to": null
+  },
+  {
+    "text": "لخي",
+    "box": [
+      1124,
+      1732,
+      1152,
+      1754
+    ],
+    "lang": "ara",
+    "conf": 5.0,
+    "assigned_to": null
+  },
+  {
+    "text": "اذك",
+    "box": [
+      1262,
+      1770,
+      1338,
+      1800
+    ],
+    "lang": "ara",
+    "conf": 7.0,
+    "assigned_to": null
+  },
+  {
+    "text": "1",
+    "box": [
+      1173,
+      1739,
+      1213,
+      1772
+    ],
+    "lang": "ara",
+    "conf": 63.0,
+    "assigned_to": null
+  },
+  {
+    "text": "1",
+    "box": [
+      1096,
+      1768,
+      1203,
+      1803
+    ],
+    "lang": "ara",
+    "conf": 32.0,
+    "assigned_to": null
+  },
+  {
+    "text": "مر",
+    "box": [
+      614,
+      1707,
+      1040,
+      1815
+    ],
+    "lang": "ara",
+    "conf": 16.0,
+    "assigned_to": null
+  },
+  {
+    "text": "*->>>>>>>",
+    "box": [
+      1462,
+      1904,
+      1740,
+      1947
+    ],
+    "lang": "ara",
+    "conf": 21.0,
+    "assigned_to": null
+  },
+  {
+    "text": "1>>11011801>>>>4اع",
+    "box": [
+      730,
+      1915,
+      1315,
+      1962
+    ],
+    "lang": "ara",
+    "conf": 40.0,
+    "assigned_to": null
+  },
+  {
+    "text": "اقرع",
+    "box": [
+      628,
+      1911,
+      716,
+      1975
+    ],
+    "lang": "ara",
+    "conf": 31.0,
+    "assigned_to": null
+  },
+  {
+    "text": ">",
+    "box": [
+      588,
+      1934,
+      594,
+      1955
+    ],
+    "lang": "ara",
+    "conf": 73.0,
+    "assigned_to": null
+  },
+  {
+    "text": "2خ",
+    "box": [
+      516,
+      1911,
+      572,
+      1975
+    ],
+    "lang": "ara",
+    "conf": 44.0,
+    "assigned_to": null
+  },
+  {
+    "text": "إا»ئخ",
+    "box": [
+      396,
+      1942,
+      555,
+      1963
+    ],
+    "lang": "ara",
+    "conf": 0.0,
+    "assigned_to": null
+  },
+  {
+    "text": "اا",
+    "box": [
+      240,
+      1933,
+      286,
+      1965
+    ],
+    "lang": "ara",
+    "conf": 41.0,
+    "assigned_to": null
+  },
+  {
+    "text": "||",
+    "box": [
+      193,
+      1940,
+      197,
+      1952
+    ],
+    "lang": "ara",
+    "conf": 78.0,
+    "assigned_to": null
+  },
+  {
+    "text": "*>02>58",
+    "box": [
+      1459,
+      2001,
+      1736,
+      2050
+    ],
+    "lang": "ara",
+    "conf": 5.0,
+    "assigned_to": null
+  },
+  {
+    "text": "١",
+    "box": [
+      0,
+      2032,
+      30,
+      2167
+    ],
+    "lang": "ara",
+    "conf": 89.0,
+    "assigned_to": null
+  },
+  {
+    "text": "+",
+    "box": [
+      101,
+      2036,
+      158,
+      2073
+    ],
+    "lang": "ara",
+    "conf": 45.0,
+    "assigned_to": null
+  },
+  {
+    "text": "0>",
+    "box": [
+      222,
+      2031,
+      406,
+      2072
+    ],
+    "lang": "ara",
+    "conf": 29.0,
+    "assigned_to": null
+  },
+  {
+    "text": ">00",
+    "box": [
+      426,
+      2024,
+      485,
+      2089
+    ],
+    "lang": "ara",
+    "conf": 29.0,
+    "assigned_to": null
+  },
+  {
+    "text": "211",
+    "box": [
+      651,
+      2024,
+      784,
+      2064
+    ],
+    "lang": "ara",
+    "conf": 58.0,
+    "assigned_to": null
+  },
+  {
+    "text": "11500541",
+    "box": [
+      859,
+      2012,
+      1307,
+      2062
+    ],
+    "lang": "ara",
+    "conf": 60.0,
+    "assigned_to": null
+  }
+]
